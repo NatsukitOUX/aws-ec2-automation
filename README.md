@@ -1,6 +1,5 @@
 # aws-ec2-automation
 
-# aws-ec2-automation
 
 ## 📌 Overview
 This project automates the provisioning of an AWS EC2 instance with:
